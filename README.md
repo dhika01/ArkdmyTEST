@@ -44,7 +44,7 @@ var arrData = [
     ['a', 'b', 'c'],
     ['a', 's', 'c', 'a', 't', 'g', 'a']
 ];
-shorNadir(arrData);
+shortDhika(arrData);
 // a,b,c
 // a,a,b,c,d,e
 // a,a,a,c,g,s,t
