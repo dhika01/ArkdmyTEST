@@ -32,7 +32,7 @@ function charku(data) {
     return eData;
 }
 
-function shorNadir(data) {
+function shortDhika(data) {
     document.getElementById("dihka").innerHTML += "<br>";
     var nil = [];
     var nili = [];
@@ -59,7 +59,7 @@ var arrData = [
     ['a', 'b', 'c'],
     ['a', 's', 'c', 'a', 't', 'g', 'a']
 ];
-shorNadir(arrData);
+shortDhika(arrData);
 // a,b,c
 // a,a,b,c,d,e
 // a,a,a,c,g,s,t
